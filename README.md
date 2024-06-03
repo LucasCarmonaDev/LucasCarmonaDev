@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, me chamo Lucas 👋
 
-<!--
-**LucasCarmonaDev/LucasCarmonaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Área atual: Suporte técnico N1 e N2
+- 🌱 Estou aprendendo: Python
+- 📫 Contate-me no e-mail: lucascarmonab@gmail.com
+- ⚡ Fun fact: Sou vascaino
 
-Here are some ideas to get you started:
+          
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucascarmonadev&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucascarmonadev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascarmonadev&show_icons=true" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
