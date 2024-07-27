@@ -3,7 +3,7 @@
 - 🔭 Área atual: Suporte técnico N1 e N2
 - 🌱 Estou aprendendo: Python
 - 📫 Contate-me no e-mail: lucascarmonab@gmail.com
-- ⚡ Fun fact: Sou vascaino
+- ⚡ Fun fact: Sou vascaino (não desisto)
 
           
 <picture>
