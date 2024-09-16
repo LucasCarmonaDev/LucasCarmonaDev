@@ -1,6 +1,6 @@
 ## Olá, me chamo Lucas 👋
 
-- 🔭 Área atual: Suporte técnico N1 e N2
+- 🔭 Área atual: Backup e Storage
 - 🌱 Estou aprendendo: Python
 - 📫 Contate-me no e-mail: lucascarmonab@gmail.com
 - ⚡ Fun fact: Sou vascaíno (não desisto)
