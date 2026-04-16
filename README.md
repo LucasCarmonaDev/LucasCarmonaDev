@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Carmona</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Flask_Lista_De_Tarefas](https://github.com/LucasCarmonaDev/Flask_Lista_De_Tarefas)
-
 - 🌱 I’m currently learning **Web Development with Flask, AWS basics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LucasCarmonaDev](https://github.com/LucasCarmonaDev)
