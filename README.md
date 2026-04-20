@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Carmona</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 👨‍💻 Most of my projects are available at [https://github.com/LucasCarmonaDev](https://github.com/LucasCarmonaDev)
+- 👨‍💻 Most of my (begginer) projects are available at [https://github.com/LucasCarmonaDev](https://github.com/LucasCarmonaDev)
 
 - 💬 Ask me about **Python**
 
